@@ -12,3 +12,4 @@ C:\Users\Lenovo\OneDrive\Рабочий стол\c##3\obj\Debug\net9.0\refint\c#
 C:\Users\Lenovo\OneDrive\Рабочий стол\c##3\obj\Debug\net9.0\c##3.pdb
 C:\Users\Lenovo\OneDrive\Рабочий стол\c##3\obj\Debug\net9.0\c##3.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Рабочий стол\c##3\obj\Debug\net9.0\ref\c##3.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\c##3\obj\Debug\net9.0\c##3.sourcelink.json
